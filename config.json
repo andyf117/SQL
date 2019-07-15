@@ -1,0 +1,10 @@
+{
+    "mysql":{
+        "host":"localhost",
+        "user":"postgres",
+        "passwd":"gelly117",
+        "db":"week19"
+    }
+    
+}
+
